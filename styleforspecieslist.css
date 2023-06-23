@@ -1,0 +1,47 @@
+body {
+    background-image:
+    url("junglebc.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#endangered-species {
+    
+    padding: 40px 20px;
+  }
+  
+  #endangered-species h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .species-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .species-card {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .species-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .species-card h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .species-card p {
+    font-size: 14px;
+  }
+  
+  
+  
